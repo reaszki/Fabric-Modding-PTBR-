@@ -25,7 +25,7 @@ Reaja e crie eventos para quando algo acontecer no jogo (bloco quebrado, mundo c
 
 🍴 **Adicionando receitas**  
 Adicione receitas para crafting, fornalha e até outros mods.
-
+___
 ### MÉDIO
 🔮 **Itens customizados**  
 Aprenda extender a classe __item__ para criar itens com funcionamento diferente do vanilla.
@@ -53,11 +53,11 @@ Injete código diretamente em classes do Minecraft para edições mais profundas
 
 🧰 **Fabric Data Generation API**  
 Pule a parte chata de criar blocos e itens no JSON.
-
+___
 ### AVANÇADO
 🐇 **Entidades**  
 Crie entidades customizadas.
-
+___
 ### DE TERCEIROS
 🌌 **APIs externas**
 Utilize APIs externas para adicionar funcionalidades ao seu mod.
