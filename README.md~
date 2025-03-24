@@ -43,7 +43,7 @@ Crie um tipo de receita customizada.
 Crie um objeto para controlar telas com inventário e lógica.
 
 💻 **Screens e HandledScreens**  
-Crie telas básicas e telas atreladas a um inventário (mesmo que virtual) para o jogador.
+Crie telas básicas para o jogador e telas atreladas a um inventário.
 
 📩 **Packets**  
 Comunicação entre cliente e servidor.
