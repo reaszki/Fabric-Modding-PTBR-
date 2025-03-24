@@ -11,9 +11,14 @@ Tutoriais sobre modding para Minecraft com Fabric em português.
 - Adicionando receitas (crafting, fornalha, outros mods, etc)
 
 ### MÉDIO
+- Block Entities
+- Screens e HandledScreens
 - Acessando e salvando data na pasta do mundo
 - Mixins
 - Fabric Data Generation API
+
+### AVANÇADO
+- Entidades
 
 ### DE TERCEIROS
 - Owo-ui (interfaces de usuário de forma mais fácil)
