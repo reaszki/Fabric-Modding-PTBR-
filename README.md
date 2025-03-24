@@ -1,4 +1,4 @@
-# Fabric Modding (PTBR)
+# Fabric Modding (KOTLIN/PTBR)
 Tutoriais sobre modding para Minecraft com Fabric em português.
 
 ### BÁSICO
